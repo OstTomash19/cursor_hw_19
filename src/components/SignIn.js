@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import SignForm from "./wievs";
 
-function SignIn() {
+const SignIn = () => {
     const [userData, setUserData] = useState({
       emailAddress: '',
       password: '',

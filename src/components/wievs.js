@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { BrowserRouter as Router, Link, NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 import "@fontsource/roboto/500.css";
 import IconLock from "./../images/padlock.png";
