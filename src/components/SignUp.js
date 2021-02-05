@@ -29,7 +29,6 @@ const SignUp = () => {
       checkboxText="I want to receive inspiration, marketing promotions and updates via email."
       buttonText="SIGN UP"
       linkText="Already have an account? Sign in"
-      linkDisplay="none"
       inputWidthSignUp="145px"
       inputWidth="300px"
       linkMargin="60px"

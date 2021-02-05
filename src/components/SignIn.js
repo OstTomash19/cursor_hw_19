@@ -24,7 +24,6 @@ const SignIn = () => {
       checkboxText="Remember me"
       buttonText="SIGN IN"
       linkText="Don`t have an account? Sign up"
-      linkDisplay="block"
       inputWidthSignUp="145px"
       inputWidth="300px"
       linkMargin="60px"
